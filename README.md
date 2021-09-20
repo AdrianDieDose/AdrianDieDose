@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning JavaScript, Java and webstack in general.
 - 💞️ I’m looking to collaborate on my Discord bot and mc mod :D
 - 📫 How to reach me: AdrianDuda2019@gmail.com
-- ❤️ Have fun looking trough my projects!
+- ❤️ Thank you for visiting my profile, feel free to have a look :)
 
 
