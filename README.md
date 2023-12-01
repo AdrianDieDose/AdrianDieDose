@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdrianDieDose
-- 👀 I’m interested in web dev, minecraft modding and more! :D
-- 🌱 I’m currently learning JavaScript, Java and webstack in general.
-- 💞️ I’m looking to collaborate on my Discord bot and mc mod :D
+- 👀 I’m interested in web development, python, minecraft modding and more! :D
+- 🌱 I’m currently doing my apprenticeship as a software developer in Detmold.
+- 💞️ I’m looking to collaborate on many of my projects! :D
 - 📫 How to reach me: AdrianDudaBielefeld@gmail.com
 - ❤️ Thank you for visiting my profile, feel free to have a look :)
 
